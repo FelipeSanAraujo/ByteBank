@@ -1,0 +1,30 @@
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.exe
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.deps.json
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.pdb
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.dll
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\refint\bytebank_ADM.dll
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
+D:\Alura\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.exe
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.deps.json
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.pdb
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.dll
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\refint\bytebank_ADM.dll
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
+D:\Alura\3 - Usando herança e implementando interfaces\ByteBank\bytebank_ADM\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
